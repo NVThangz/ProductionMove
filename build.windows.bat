@@ -1,0 +1,1 @@
+cd frontend && npm install && npm run build && cd .. && cd backend/src/WebAPI && dotnet build && cd ../../..
